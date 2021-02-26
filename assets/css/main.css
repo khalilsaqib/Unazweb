@@ -4986,3 +4986,9 @@ footer {
         background: #ffffff;
         border-radius: 20px;
 }
+.aboutcontent{
+text-align: left;
+}
+.contactinfo{
+    text-align: center;
+}
